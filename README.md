@@ -11,7 +11,7 @@ Please click on the executable located in https://github.com/alpaddesai/RFMicroe
 ![image](RFMicroelectronicsII.png)
 
 ## RF Microelectronics Oscillator
-![image](RFMicroelectronicsIII.png)
+![image](RFMicroelectronicsV.png)
 
 ## RF Microelectronics Voltage Controlled Oscillator
 ![image](RFMicroelectronics_VCO.png)
