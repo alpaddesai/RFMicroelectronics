@@ -5,8 +5,81 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:RFMicroelectronics"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
+        Title="MainWindow" Height="570" Width="970">
+    <Grid Margin="25,10,10,28">
+        <TabControl SelectionChanged="TabControl_SelectionChanged_1" Margin="-15,-11,10,-14">
+            <TabItem Header="RFMicro" Margin="-2,-2,-3,0">
+                <Grid Background="#FFE5E5E5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="74*"/>
+                        <ColumnDefinition Width="10*"/>
+                        <ColumnDefinition Width="244*"/>
+                        <ColumnDefinition Width="587*"/>
+                    </Grid.ColumnDefinitions>
+                    <TabControl Grid.ColumnSpan="4" Margin="0,0,-10,0">
+                        <TabItem Header="LNA">
+                            <Grid Background="#FFE5E5E5">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="49*"/>
+                                    <ColumnDefinition Width="871*"/>
+                                </Grid.ColumnDefinitions>
+                                <Image Stretch="Fill" Source="/Image1.png" Margin="10,0,0,-10" Grid.ColumnSpan="2"/>
+                            </Grid>
+                        </TabItem>
+                        <TabItem Header="Mixer" Height="20" VerticalAlignment="Top">
+                            <Grid Background="#FFE5E5E5">
+                                <Image Margin="0,0,10,0" Stretch="Fill" Source="pack://siteoforigin:,,,/mixer.png"/>
+                                <Image Margin="7,8,14,17" Stretch="Fill" Source="/mixer.png"/>
+                            </Grid>
+                        </TabItem>
+                    </TabControl>
+                </Grid>
+            </TabItem>
+            <TabItem Header="RFMicro" Height="20" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Margin="0,-1,0,0">
+                <TabItem.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="2.23"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </TabItem.RenderTransform>
+                <Grid Background="#FFE5E5E5">
+                    <TabControl>
+                        <TabItem Header="Oscillator">
+                            <Grid Background="#FFE5E5E5">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="28*"/>
+                                    <ColumnDefinition Width="11*"/>
+                                    <ColumnDefinition Width="415*"/>
+                                </Grid.ColumnDefinitions>
+                                <Image Margin="0,0,10,10" Stretch="Fill" Source="pack://siteoforigin:,,,/Oscillator.jpg" Grid.ColumnSpan="3"/>
+                                <Image Margin="8,9,24,7" Stretch="Fill" Source="/Oscillator.jpg" Grid.ColumnSpan="3"/>
+                            </Grid>
+                        </TabItem>
+                        <TabItem Header="VCO">
+                            <Grid Background="#FFE5E5E5">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="479*"/>
+                                    <ColumnDefinition Width="430*"/>
+                                </Grid.ColumnDefinitions>
+                                <Image Margin="-2,1,25,19" Stretch="Fill" Source="pack://siteoforigin:,,,/VoltageControlledOscillator.jpg" Grid.ColumnSpan="2"/>
+                                <Image Margin="-19,0,15,22" Stretch="Fill" Source="pack://siteoforigin:,,,/VoltageControlledOscillator.jpg" Grid.ColumnSpan="2"/>
+                                <Image Grid.ColumnSpan="2" Margin="12,3,10,21" Stretch="Fill" Source="/VoltageControlledOscillator.jpg"/>
+                            </Grid>
+                        </TabItem>
+                    </TabControl>
+                </Grid>
+            </TabItem>
+            <TabControl>
+                <TabItem Header="TabItem">
+                    <Grid Background="#FFE5E5E5"/>
+                </TabItem>
+                <TabItem Header="TabItem">
+                    <Grid Background="#FFE5E5E5"/>
+                </TabItem>
+            </TabControl>
+        </TabControl>
 
     </Grid>
 </Window>

@@ -24,5 +24,25 @@ namespace RFMicroelectronics
         {
             InitializeComponent();
         }
+
+        private void TabControl_SelectionChanged()
+        {
+
+        }
+
+        private void TabControl_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
+
+        private void RFMicro_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
+
+        private void TabControl_SelectionChanged_1(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
     }
 }

@@ -6,4 +6,21 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Image1.png" />
+    <None Remove="Image2.png" />
+    <None Remove="mixer.png" />
+    <None Remove="Oscillator.jpg" />
+    <None Remove="Transceiver.jpg" />
+    <None Remove="VoltageControlledOscillator.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Image1.png" />
+    <Resource Include="mixer.png" />
+    <Resource Include="Oscillator.jpg" />
+    <Resource Include="Transceiver.jpg" />
+    <Resource Include="VoltageControlledOscillator.jpg" />
+  </ItemGroup>
+
 </Project>

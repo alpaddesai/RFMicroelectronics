@@ -4,7 +4,6 @@ C:\Users\alpag\source\repos\RFMicroelectronics\RFMicroelectronics\bin\Debug\netc
 C:\Users\alpag\source\repos\RFMicroelectronics\RFMicroelectronics\bin\Debug\netcoreapp3.1\RFMicroelectronics.runtimeconfig.dev.json
 C:\Users\alpag\source\repos\RFMicroelectronics\RFMicroelectronics\bin\Debug\netcoreapp3.1\RFMicroelectronics.dll
 C:\Users\alpag\source\repos\RFMicroelectronics\RFMicroelectronics\bin\Debug\netcoreapp3.1\RFMicroelectronics.pdb
-C:\Users\alpag\source\repos\RFMicroelectronics\RFMicroelectronics\obj\Debug\netcoreapp3.1\RFMicroelectronics.csprojAssemblyReference.cache
 C:\Users\alpag\source\repos\RFMicroelectronics\RFMicroelectronics\obj\Debug\netcoreapp3.1\MainWindow.g.cs
 C:\Users\alpag\source\repos\RFMicroelectronics\RFMicroelectronics\obj\Debug\netcoreapp3.1\App.g.cs
 C:\Users\alpag\source\repos\RFMicroelectronics\RFMicroelectronics\obj\Debug\netcoreapp3.1\RFMicroelectronics_MarkupCompile.cache
