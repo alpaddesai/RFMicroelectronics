@@ -14,4 +14,4 @@ Please click on the executable located in https://github.com/alpaddesai/RFMicroe
 ![image](RFMicroelectronicsIII.png)
 
 ## RF Microelectronics Transceiver Architecture
-![image](RFMicroelectronicsIV.png)
+![image](RFMicroelectronics_VCO.png)
