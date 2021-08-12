@@ -1,4 +1,4 @@
-# RFMicroelectronics
+# RF Microelectronics
 
 The project provides details on RF microelectronics
 
