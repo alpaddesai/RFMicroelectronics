@@ -16,4 +16,4 @@ Please click on the executable located in https://github.com/alpaddesai/RFMicroe
 ## RF Microelectronics Voltage Controlled Oscillator
 ![image](RFMicroelectronics_VCO.png)
 
-Additional details reference https://github.com/alpaddesai/Microwave-Engineering and https://github.com/alpaddesai/RFDesign
+Additional details reference https://github.com/alpaddesai/AnalogDesign
