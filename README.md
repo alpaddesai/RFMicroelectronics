@@ -28,4 +28,5 @@ Please click on the executable located in https://github.com/alpaddesai/RFMicroe
 ## Charge pump
 ![image](ChargePump.png)
 
+### Reference for circuits: RF Microelectronics Razavi.
 Additional details reference https://github.com/alpaddesai/AnalogDesign
