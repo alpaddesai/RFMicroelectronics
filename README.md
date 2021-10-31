@@ -16,4 +16,16 @@ Please click on the executable located in https://github.com/alpaddesai/RFMicroe
 ## RF Microelectronics Voltage Controlled Oscillator
 ![image](RFMicroelectronics_VCO.png)
 
+## Final Transmitter Design 
+![image](FinalTxDesign.png)
+
+## Final Receiver Design
+![image](FinalRxDesign.png)
+
+## Voltage Controlled Oscillator
+![image](VoltageControlledOscillator.png)
+
+## Charge pump
+![image](ChargePump.png)
+
 Additional details reference https://github.com/alpaddesai/AnalogDesign
