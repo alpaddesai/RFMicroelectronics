@@ -34,4 +34,4 @@ Please click on the executable located in https://github.com/alpaddesai/RFMicroe
 
 ###### Reference for circuits: RF Microelectronics Razavi.
 
-Additional details reference https://github.com/alpaddesai/ArchitecturalProductDesign2022
+Additional details reference https://github.com/alpaddesai/ArchitecturalProductDesign
