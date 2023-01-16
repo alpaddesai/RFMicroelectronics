@@ -9,6 +9,7 @@ Please click on the executable located in https://github.com/alpaddesai/RFMicroe
 
 ## RF Microelectronics Mixer
 ![image](RFMicroelectronicsII.png)
+![image](RFMicroelectronicsIII.png)
 
 ## RF Microelectronics Oscillator
 ![image](RFMicroelectronicsV.png)
