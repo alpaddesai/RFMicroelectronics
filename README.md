@@ -2,7 +2,7 @@
 
 The project provides details on RF microelectronics
 
-Please click on the executable located in https://github.com/alpaddesai/RFMicroelectronics/releases for details. All images are custom unless a reference is specified.
+All images are custom unless a reference is specified.
 
 ## RF Microelectronics LNA
 ![image](RFMicroelectronics1.png)
